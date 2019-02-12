@@ -1,2 +1,2 @@
-# tuesday
-This is a sample repo for the code
+# Tuesday
+This is a new repo from command line
