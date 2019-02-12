@@ -1,2 +1,2 @@
-# Wednesday
-bla bla bla
+# Thursday
+Test Sample
